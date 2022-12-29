@@ -2,27 +2,27 @@
 
 ## 🍰 About Me
 
-* Name : 정해인 (Rina Jung)
+* **Name** : 정해인 (Rina Jung)
 
-* Birth : 1998.10.09
+* **Birth** : 1998.10.09
 
-* Univ : Ewha Womans University
+* **Univ** : Ewha Womans University (2018.03 ~ 2023.02)
 
-* Major
-    * Brain Cognitive Science
-    * Computer Science & Engineering
+* **Major**
+    * `Brain Cognitive Science`
+    * `Computer Science & Engineering`
 
-* Experience
+* **Experience**
     * Canada 🍁 (2012.12 ~ 2014.02)
     * Intership (2022.01 ~ 2022.06)
         * Samsung Seoul Hospital - SmartHealth Lab
 
-* Love
+* **Love**
     * My two puppies 🐶
 
 ***
 
 ## 🍮 What About Me Now?
 
-* Ongoing
-   * KDT Education - Establish Career as a Developer
+* **Ongoing**
+   * `KDT Education` - Establish Career as a Developer
