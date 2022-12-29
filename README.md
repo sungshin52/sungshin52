@@ -12,6 +12,11 @@
     * Brain Cognitive Science
     * Computer Science & Engineering
 
+* Experience
+    * Canada 🍁 (2012.12 ~ 2014.02)
+    * Intership (2022.01 ~ 2022.06)
+        * Samsung Seoul Hospital - SmartHealth Lab
+
 * Love
     * My two puppies 🐶
 
