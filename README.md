@@ -1,28 +1,106 @@
-# ❣ Profile
+<center>
 
-## 🍰 About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3E2FF,100:6B7BE1&height=300&section=header&text=!%20Hell0%20My%20W0rld%20!&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=45)
 
-* **Name** : 정해인 (Rina Jung)
+# ✨ Profile 🌙
 
-* **Birth** : 1998.10.09
+## 🍨 Tech Stack 🍨
 
-* **Univ** : Ewha Womans University (2018.03 ~ 2023.02)
+<br/>
 
-* **Major**
-    * `Brain Cognitive Science`
-    * `Computer Science & Engineering`
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) &nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-* **Experience**
-    * Canada 🍁 (2012.12 ~ 2014.02)
-    * Intership (2022.01 ~ 2022.06)
-        * Samsung Seoul Hospital - SmartHealth Lab
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-* **Love**
-    * My two puppies 🐶
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) &nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+<br/>
+
+## 💌 Contact Info 💌
+
+sungshin52@gmail.com
+
+
+<br/>
+
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungshin52&theme=rose_pine&show_icons=true)
+
+<br/>
 
 ***
 
-## 🍮 What About Me Now?
+<br/>
 
-* **Ongoing**
-   * `KDT Education` - Establish Career as a Developer
+## 🍰 More About Me 🍰
+
+**Name**
+
+정해인 (Rina Jung)
+
+<br/>
+
+**Birth**
+
+1998.10.09
+
+<br/>
+
+**Univ**
+
+Ewha Womans University (2018.03 ~ 2023.02)
+
+<br/>
+
+**Major**
+
+`Brain Cognitive Science`
+
+`Computer Science & Engineering`
+
+<br/>
+
+**Reward**
+
+2021 Ewha Capstone Design Project Poster Session - 4th Place
+
+KBSC 2021 - Special Award
+
+<br/>
+
+**Experience**
+
+Canada 🍁 (2012.12 ~ 2014.02)
+
+SmartHealth Lab Intership (2022.01 ~ 2022.06)
+
+<br/>
+
+***
+
+<br/>
+
+## 🍮 What About Me Now? 🍮
+
+**Ongoing (2022.12~)**
+
+`KDT Education`
+
+Establishing Career as a Developer
+
+<br/>
+
+***
+
+</center>
+
+<div style="text-align: right">
+
+*-2022.12.29*
+
+*Will be revised*
+
+</div>
