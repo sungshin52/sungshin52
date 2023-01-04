@@ -49,12 +49,6 @@ sungshin52@gmail.com
 
 <br/>
 
-**Univ**
-
-Ewha Womans University (2018.03 ~ 2023.02)
-
-<br/>
-
 **Major**
 
 `Brain Cognitive Science`
@@ -65,7 +59,7 @@ Ewha Womans University (2018.03 ~ 2023.02)
 
 **Reward**
 
-2021 Ewha Capstone Design Project Poster Session - 4th Place
+2021 Capstone Design Project Poster Session - 4th Place
 
 KBSC 2021 - Special Award
 
@@ -89,8 +83,6 @@ SmartHealth Lab Intership (2022.01 ~ 2022.06)
 
 `KDT Education`
 
-Establishing Career as a Developer
-
 <br/>
 
 ***
@@ -99,7 +91,7 @@ Establishing Career as a Developer
 
 <div align="right">
 
-*-2022.12.29*
+*-2023.01.04*
 
 *Will be revised*
 
