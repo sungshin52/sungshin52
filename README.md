@@ -71,7 +71,7 @@ SmartHealth Lab Intership (2022.01 ~ 2022.06)
 
 <br/>
 
-## 🍮 What About Me Now? 🍮
+### 🍮 What About Me Now? 🍮
 
 **Ongoing (2022.12~)**
 
