@@ -4,7 +4,7 @@
 
 # ✨ Profile 🌙
 
-## 🍨 Tech Stack 🍨
+### 🍨 Tech Stack 🍨
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-## 💌 Contact Info 💌
+### 💌 Contact Info 💌
 
 sungshin52@gmail.com
 
@@ -35,17 +35,11 @@ sungshin52@gmail.com
 
 <br/>
 
-## 🍰 More About Me 🍰
+### 🍰 More About Me 🍰
 
 **Name**
 
 정해인 (Rina Jung)
-
-<br/>
-
-**Birth**
-
-1998.10.09
 
 <br/>
 
