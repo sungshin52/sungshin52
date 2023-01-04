@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3E2FF,100:6B7BE1&height=300&section=header&text=!%20Hell0%20My%20W0rld%20!&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3E2FF,100:6B7BE1&height=250&section=header&text=!%20Hell0%20My%20W0rld%20!&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=45)
 
 # ✨ Profile 🌙
 
