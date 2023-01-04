@@ -39,7 +39,7 @@ sungshin52@gmail.com
 
 **Name**
 
-정해인 (Rina Jung)
+`정해인 (Rina Jung)`
 
 <br/>
 
@@ -53,17 +53,17 @@ sungshin52@gmail.com
 
 **Reward**
 
-2021 Capstone Design Project Poster Session - 4th Place
+`2021 Capstone Design Project Poster Session - 4th Place`
 
-KBSC 2021 - Special Award
+`KBSC 2021 - Special Award`
 
 <br/>
 
 **Experience**
 
-Canada 🍁 (2012.12 ~ 2014.02)
+`Canada 🍁 (2012.12 ~ 2014.02)`
 
-SmartHealth Lab Intership (2022.01 ~ 2022.06)
+`SmartHealth Lab Intership (2022.01 ~ 2022.06)`
 
 <br/>
 
