@@ -27,7 +27,11 @@ sungshin52@gmail.com
 
 <br/>
 
-![Rina's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=sungshin52&theme=rose_pine&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungshin52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungshin52&theme=rose_pine&show_icons=true)
 
 <br/>
 
